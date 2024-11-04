@@ -133,7 +133,7 @@ function Skills() {
   return (
     <Container id="skills">
       <Wrapper>
-        <Title>Skills Hello World</Title>
+        <Title>Skills </Title>
         <Desc>
           "Throughout my journey to becoming a Full Stack Developer, I have
           developed and refined a diverse set of skills."
