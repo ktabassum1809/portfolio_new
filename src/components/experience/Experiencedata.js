@@ -1,7 +1,7 @@
 const Experiencedata = [
     {
       id: 0,
-      img: "/school.jpeg", // Replace with the actual path to your image
+      img: "/school.jpeg", 
       role: "Computer Instructor",
       date: "January 2012 - July 2016",
       company: "Anglo Urdu Boys' High School & Junior College",
@@ -22,7 +22,7 @@ const Experiencedata = [
     },
     {
       id: 1,
-      img: "/Freewill-Logo.png", // Replace with the actual path to your image
+      img: "/Freewill-Logo.png", 
       role: "Junior Software Programmer (System Testing)",
       date: "January 2008 - April 2009",
       company: "Freewill Infrastructures Pvt. Ltd.",
@@ -43,8 +43,8 @@ const Experiencedata = [
       ],
     },
     {
-      id: 2, // Unique identifier for this entry
-      img: "/kinetic-red-logo.jpg", // Replace with the actual path to your image
+      id: 2, 
+      img: "/kinetic-red-logo.jpg", 
       role: "Software Developer",
       date: "December 2009 - November 2010",
       company: "Kinetic Ltd",
