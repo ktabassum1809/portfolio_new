@@ -196,8 +196,8 @@ const ProjectCard = ({ toggle }) => {
           <DateText>{project.date}</DateText>
           <Description>{project.description}</Description>
           <ButtonDiv>
-            <Button active href={project.link}>View Project</Button>
-            <Button href={project.github}>View Code</Button>
+            <Button active href={project.link} target="_blank">View Project</Button>
+            <Button href={project.github} target="_blank">View Code</Button>
           </ButtonDiv>
         </Card>
       ))}
