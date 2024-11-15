@@ -22,6 +22,17 @@ const ProjectData = [
         category: "react",
         github: "https://github.com/yourusername/react-todo-app", // Replace with the actual GitHub repository link
        link: "https://your-deployment-link.com/react-todo-app" // Replace with the actual deployment link
+      },
+      {
+        id: 3,
+        title: "Ecommerce Application",
+        date: "11 November 2024", // Adjust to the completion year
+        description: "Ecom Express is a modern, responsive e-commerce platform built with React. It offers a seamless shopping experience with features like product browsing,login validation, cart management, and more. Designed with scalability and performance in mind, Ecom Express provides a solid foundation for building robust online stores.",
+        image: "/ecom.png", // Replace with the path to a screenshot or image of the app
+        technologies: ["React", "JavaScript", "CSS", "HTML", "State Management",'Tailwind CSS','useReducer'],
+        category: "react",
+        github: "https://github.com/ktabassum1809/ecommerce_project", // Replace with the actual GitHub repository link
+       link: "https://ecommerce-project-ong5.onrender.com" // Replace with the actual deployment link
       }
     
       
