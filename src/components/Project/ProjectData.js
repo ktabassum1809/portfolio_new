@@ -33,7 +33,18 @@ const ProjectData = [
         category: "react",
         github: "https://github.com/ktabassum1809/ecommerce_project", 
        link: "https://ecommerce-project-ong5.onrender.com" 
-      }
+      },
+      {
+        id: 4,
+        title: "Weather Application",
+        date: "1 December 2024",
+        image: "/weather.png", 
+        description: "Weather App provides real-time weather updates for cities worldwide. Built with React, it offers dynamic time and date formatting, sunrise/sunset times, and a responsive UI.",
+        technologies: ["React", "JavaScript", "Moment.js", "CSS", "HTML", "Tailwind CSS", "Context API", "OpenWeatherMap API"],
+        category: "react",
+        github: "https://github.com/ktabassum1809/weather-app", // Replace with your actual GitHub repo if available
+        link: "https://weather-app-g17a.onrender.com"
+    }
     
       
     ];
