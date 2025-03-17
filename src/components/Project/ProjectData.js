@@ -44,6 +44,18 @@ const ProjectData = [
         category: "react",
         github: "https://github.com/ktabassum1809/weather-app", // Replace with your actual GitHub repo if available
         link: "https://weather-app-g17a.onrender.com"
+    },
+
+    {
+      "id": 5,
+      "title": "Food Delivery App",
+      "date": "16 March 2025", 
+      "description": "A modern and efficient Food Delivery application built with React. This app allows users to browse restaurants, add items to the cart, and place orders seamlessly. It features a responsive UI, dynamic filtering, and state management for smooth user experience.",
+      "image": "/ffe.png",
+      "technologies": ["React", "JavaScript", "Tailwind CSS", "MongoDB", "Express.js", "Node.js"],
+      "category": "react",
+      "github": "https://github.com/Web-Dev-Codi/Food-Delivery-Service-App.git",
+      "link": "https://fourflavoursexpress.onrender.com/" 
     }
     
       
